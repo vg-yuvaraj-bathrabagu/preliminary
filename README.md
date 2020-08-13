@@ -3,7 +3,7 @@
 * export AWS_ACCESS_KEY_ID="******"
 * export AWS_SECRET_ACCESS_KEY="*******"
 
-# Run the below commands to execute
+# Run the below commands to setup the infra in aws
 * git clone https://github.com/yuvaraj-b/preliminary.git
 * cd terraform
 * terraform init
