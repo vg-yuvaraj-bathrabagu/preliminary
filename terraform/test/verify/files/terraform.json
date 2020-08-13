@@ -1,0 +1,7 @@
+{
+  "clb_dns_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "examplecluster-2126365377.us-east-2.elb.amazonaws.com"
+  }
+}
