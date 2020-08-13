@@ -9,7 +9,7 @@
 * terraform init
 * terraform plan (if you want to verify before applying)
 * terraform apply
-* curl the dns which was given as console output (give like 3 to 4 mins for the dns to be available)
+* curl the dns which will be given as console output (give like 3 to 4 mins for the dns to be available)
 * terraform output --json > test/verify/files/terraform.json
 
 # To verify the inspec run the below command
